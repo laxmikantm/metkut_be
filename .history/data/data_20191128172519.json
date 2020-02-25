@@ -1,0 +1,16 @@
+
+{
+  "Contact":[
+  {
+    "name": "OneMan",
+    "mobilenumber": 9999999,
+    "email": "one@man.com",
+    "address": "blablalalalalallalalalala"
+  },
+  {
+     "name": "TwoMan",
+    "mobilenumber": 88888,
+    "email": "Two@man.com",
+    "address": "blablalalalalallalalalala"
+  }
+]}
